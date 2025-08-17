@@ -1,3 +1,4 @@
+NOTE: This documentation refers to v1 folder. For basic understanding of `fork` and `execvp`, refer to v0. 
 
 # How this Custom Shell Works
 
