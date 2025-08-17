@@ -102,7 +102,7 @@ This way you can close the shell gracefully.
 
 ---
 
-# 📝 Summary in Plain Words
+# Summary
 
 My shell is like a middleman:
 
